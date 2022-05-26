@@ -14,5 +14,10 @@
   "AutoSaveInterval": 600,
   "GameSettingsPreset": "",
   "AdminOnlyDebugEvents": true,
-  "DisableDebugEvents": false
+  "DisableDebugEvents": false,
+  "Rcon": {
+    "Enabled": true,
+    "Password": "somepassword",
+    "Port": 25575
+  }
 }
